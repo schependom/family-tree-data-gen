@@ -28,9 +28,9 @@
 # date:     May 28, 2018
 
 
-name: family-tree-data-gen
+name: family-tree-data-gen-f
 dependencies:
-  - python>=3.6
+  - python==3.9.20
   - pip:
     - insanity>=2017.1
     - networkx>=2.3
